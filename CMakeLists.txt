@@ -3,4 +3,4 @@ project(practiva_parcial2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(practiva_parcial2 main.cpp)
+add_executable(practiva_parcial2 main.cpp Manejo_archivos Manejo_archivos.cpp)

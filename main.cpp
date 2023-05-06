@@ -1,12 +1,9 @@
 #include <iostream>
+#include "archivos.h"
+#include <fstream>
 using namespace std;
 int main() {
+    Escribir();
 
-    cout << "1";
-    cout << "2";
-    cout << "3";
-    cout << "4";
-    cout << "5";
-    cout << "6";
     return 0;
 }
