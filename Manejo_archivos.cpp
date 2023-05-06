@@ -6,6 +6,7 @@ using namespace  std;
 
 void Escribir (){
 
+
 ofstream archivo;
 archivo.open("Prueba.txt", ios::out); //abriendo archivo
 if(archivo.fail()){
