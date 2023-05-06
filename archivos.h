@@ -1,1 +1,2 @@
 void Escribir();
+void Leer();
